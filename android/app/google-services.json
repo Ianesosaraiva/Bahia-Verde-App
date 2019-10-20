@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019770439997",
+    "firebase_url": "https://bahia-verde-app.firebaseio.com",
+    "project_id": "bahia-verde-app",
+    "storage_bucket": "bahia-verde-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019770439997:android:447c13eccafcb5c1",
+        "android_client_info": {
+          "package_name": "com.example.bahia_verde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019770439997-hjv1bh0ht32h2hpbteiaivd5bdavpaf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8k-_hFXKhf0CJOIMrDqv4ZSeT-cEMfPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019770439997-hjv1bh0ht32h2hpbteiaivd5bdavpaf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
